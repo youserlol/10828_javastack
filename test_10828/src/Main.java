@@ -10,7 +10,7 @@ public class Main {
         StringBuilder sb = new StringBuilder(); // 출력 속도 향상을 위한 StringBuilder 사용
 
         for (int i = 0; i < n; i++) {
-            String cmd = sc.next(); // 명령어 입력
+            String cmd = sc.next(); // 명령어 입력하기
 
             switch (cmd) {
 
